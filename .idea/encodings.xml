@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/module/example/com/swipealone/SwipeUtils/DecoratorAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/module/example/com/swipealone/SwipeUtils/SwipeActionAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/module/example/com/swipealone/SwipeUtils/SwipeActionTouchListener.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/module/example/com/swipealone/SwipeUtils/SwipeDirection.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/module/example/com/swipealone/SwipeUtils/SwipeViewGroup.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/row_left.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/row_left_far.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/row_right.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/row_right_far.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
